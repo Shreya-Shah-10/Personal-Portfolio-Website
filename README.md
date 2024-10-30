@@ -7,7 +7,7 @@
 -HTML Structure
 The HTML code organizes the portfolio content and includes metadata for search engines.
 
-1. HTML Header:
+# HTML Header:
 
 * The <head> tag includes essential metadata, the title of the page, and a link to an external CSS file cssFile.css.
 * Metadata for character encoding, viewport settings (for responsiveness), and a description for search engines is included.
@@ -28,7 +28,7 @@ The HTML code organizes the portfolio content and includes metadata for search e
 
 - Footer Section: The footer contains copyright text.
 
-CSS Styling
+# CSS Styling
 * The styling enhances the look of each section and controls layout.
 
 1. Basic Styles:
@@ -47,7 +47,7 @@ CSS Styling
 
 * Styled with a dark background, white text, and centered alignment for a balanced look at the end of the page.
 
-=> How It Works
+# How It Works
 - HTML and CSS Link: HTML provides the structure, and CSS in the external file (or embedded styles here) formats it visually.
 - Responsive Layouts: Flexbox properties in .skills and .projects allow for flexible layouts, meaning that on smaller screens, the cards will stack or wrap, ensuring readability.
 - Interactive Features: Email and LinkedIn links are added for interactivity, allowing users to click and directly contact the owner.
